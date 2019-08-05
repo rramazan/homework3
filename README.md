@@ -1,3 +1,2 @@
-npm i
-npm run deb
-npm run biuld
+1. npm i 
+2. npm run deb
