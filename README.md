@@ -1,2 +1,2 @@
 1. npm i 
-2. npm run deb
+2. npm run dev
