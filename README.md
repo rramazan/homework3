@@ -1,2 +1,3 @@
 npm i
-npm run 
+npm run deb
+npm run biuld
